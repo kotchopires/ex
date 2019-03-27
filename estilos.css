@@ -1,0 +1,27 @@
+.titulo{
+font-family: impact;
+font-size: 60;
+color: 	#86cecb;
+text-align: center;
+margin-bottom: 0px;
+}
+
+hr{
+    width:50%;
+    background: #bec8d1;
+    height: 20px;
+}
+.texto{
+    width:50%;
+    margin: auto;
+    text-align: justify;
+}
+.textoanimado{
+  font-family: impact; 
+    font-size: 40;
+color: 	#86cecb;
+}
+.fundo{
+    background: url(296504.jpg)center fixed;
+background-size: cover;
+}
